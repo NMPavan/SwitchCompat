@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SwitchCompat</string>
+    <string name="switchon_off">switchon/off</string>
+    <string name="radiobutton">RadioButton</string>
+</resources>

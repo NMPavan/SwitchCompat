@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!-- when ever we are defining switch at thattimeby
+    default ut comes by off-->
+<android.support.v7.widget.SwitchCompat
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/s1"
+    android:layout_margin="20dp"
+    android:text="@string/switchon_off"
+    android:layout_centerHorizontal="true"
+    android:padding="10dp"
+    android:textSize="20dp"
+    app:theme="@style/SwitchTheme"
+    >
+</android.support.v7.widget.SwitchCompat>
+
+
+</RelativeLayout>
